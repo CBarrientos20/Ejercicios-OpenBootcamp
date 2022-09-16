@@ -1,0 +1,21 @@
+{
+  "name": "primer-ejercicio",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/CBarrientos20/primer-proyecto-node"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "proyect"
+  ],
+  "author": "Carla Barrientos",
+  "license": "ISC"
+}

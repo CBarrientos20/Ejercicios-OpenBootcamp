@@ -6,7 +6,7 @@ let miPesoEnKg = 53.3;
 let miALturaRedondeada = miAlturaEnMts.toFixed();
 console.log(miALturaRedondeada);
 
-let miPesoRedondeado = Math.round(miPesoEnKg);
+let miPesoRedondeado = Math.floor(miPesoEnKg);
 console.log(miPesoRedondeado);
 
 let max_valor_JS = Number.MAX_VALUE;

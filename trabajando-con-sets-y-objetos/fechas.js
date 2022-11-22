@@ -15,3 +15,4 @@
 
  const anioNacimiento= miNacimiento.getFullYear()
  console.log(anioNacimiento)
+ 
